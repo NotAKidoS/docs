@@ -8,6 +8,6 @@ nav:
     - World: world
     - Spawnable: spawnable
     - Components: components
+    - Shader Globals: shader-globals.md
     - Lua Scripting: lua
-    - Examples: examples
     - FAQ: faq.md
